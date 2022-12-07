@@ -20,3 +20,18 @@ print(Mom)
 print(Me)
 print(Sister)
 print(Cousin)
+
+
+
+Car = "mustang"
+yearOfCar = 2019
+isCarAMustang = True
+
+print(Car)
+print(yearOfCar)
+print(isCarAMustang)
+
+color, rearTireSize, drivetrain = "green", 19, "RWD"
+
+print("The color of my car is " + color + ", the car is a " + Car + " made in " + str(yearOfCar) + "!")
+
